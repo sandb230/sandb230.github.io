@@ -7,7 +7,7 @@ h3 {
 history li {
   margin: 100px;
   font-family: garamond, serif;
-  font-size: 1rem;
+  font-size: 16px;
 }
 .history {
   border: 1px solid #000;
@@ -15,5 +15,5 @@ history li {
 }
 p {
   font-family: garamond, serif;
-  font-size: 1rem;
+  font-size: 16px;
 }

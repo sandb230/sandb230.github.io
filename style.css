@@ -10,9 +10,9 @@ history li {
 }
 .history {
   border: 1px solid #000;
-  padding: 200px;
+  padding: 175px;
 }
 p {
   font-family: garamond, serif;
-  font-size: 1rem;
+  font-size: 32px;
 }

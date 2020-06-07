@@ -1,4 +1,6 @@
-
+.header {
+  text-align: center;
+}
 history li {
   margin: 100px;
 }

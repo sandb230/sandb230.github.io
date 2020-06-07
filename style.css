@@ -1,13 +1,13 @@
 .header {
   text-align: center;
 }
+h3 {
+  font-style: italic;
+}
 history li {
   margin: 100px;
 }
 .history {
   border: 1px solid #000;
   padding: 50px;
-}
-.detail {
-  font-style = italic;
 }

@@ -11,3 +11,7 @@ history li {
   border: 1px solid #000;
   padding: 200px;
 }
+p {
+  font-family = garamond;
+  sont-size = 12px;
+}

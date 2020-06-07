@@ -4,5 +4,9 @@
 history li {
   margin: 100px;
 }
-
+.borders {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 10px;
+}
  

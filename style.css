@@ -22,7 +22,7 @@ p {
   font-family: garamond, serif;
   font-size: 16px;
 }
-ul.right {
+right {
   float: right;
   list-style-type: none;
 }

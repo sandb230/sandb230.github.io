@@ -10,8 +10,8 @@ history li {
   font-size: 16px;
 }
 .history {
-  width: 1000px;
-  margin: 10px;
+  width: 750px;
+  margin: auto;
   border: 1px solid #000;
 }
 p {

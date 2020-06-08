@@ -12,7 +12,7 @@ history li {
 .history {
   width: 1000px;
   margin: auto;
-  border: 1px solid #000;
+  border: 20px solid #000;
 }
 p {
   font-family: garamond, serif;

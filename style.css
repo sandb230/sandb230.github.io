@@ -11,10 +11,12 @@ history li {
 }
 .history {
   border: 1px solid #000;
-  left-margin: 175px;
-  right-margin: 175px;
+  padding: 175px;
 }
 p {
   font-family: garamond, serif;
   font-size: 16px;
+}
+.right {
+  float: right;
 }

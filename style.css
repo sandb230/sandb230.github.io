@@ -11,7 +11,7 @@ history li {
 }
 .history {
   width: 1000px;
-  margin: auto;
+  margin: 10px;
   border: 1px solid #000;
 }
 p {

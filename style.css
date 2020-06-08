@@ -23,5 +23,5 @@ p {
   font-size: 16px;
 }
 .right {
-  text-align: right;
+  float: right;
 }
